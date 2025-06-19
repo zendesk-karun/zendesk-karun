@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 💬 Ask me about custom development on Zendesk Platform
+- 📫 Find me on X: [@karuncodes](https://x.com/karuncodes)
+
 <!--
 **zendesk-karun/zendesk-karun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
